@@ -8,7 +8,7 @@
 
 **Batch Number:** 5A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+
 
 ## Objective
 The objective of this project is to develop a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify pet images into Cats and Dogs to support automated animal identification.
