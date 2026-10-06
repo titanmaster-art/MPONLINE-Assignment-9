@@ -4,8 +4,6 @@
 
 **Registration Number:** 23BCY10207
 
-**Application Number:** IN26011052
-
 **Batch Number:** 5A
 
 
